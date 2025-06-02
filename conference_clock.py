@@ -185,6 +185,6 @@ for type, is_marker, legend_text in draw_order_and_legend:
 ax.legend(handles=legend_elements, loc='center', bbox_to_anchor=(0.5, -0.1),
           ncol=4, frameon=False, fontsize=9)
 
-plt.title('GPT-Lab Research Year Clock', fontsize=16, fontweight='bold', pad=30)
+plt.title('GPT-Lab Publication Year Wheel', fontsize=16, fontweight='bold', pad=30)
 plt.tight_layout()
 plt.show()
