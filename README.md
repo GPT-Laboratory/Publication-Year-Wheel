@@ -1,6 +1,6 @@
-# Research Year Clock
+# GPT-Lab Publication Year Wheel
 
-This tool visualizes GPT-lab AI research deadlines, demo days, and related milestones in a radial calendar. It's designed to eventually serve as an internal online dashboard showing when and where an AI agent updates project timelines.
+This tool visualizes GPT-Lab AI research deadlines, demo days, and related milestones in a radial calendar. It's designed to eventually serve as an internal online dashboard showing when and where an AI agent updates project timelines.
 
 ## Features
 
