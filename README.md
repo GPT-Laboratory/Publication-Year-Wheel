@@ -21,6 +21,7 @@ python conference_clock.py
 ## TODO (Plz contribute)
 
 - [ ] Modify the data, preprocessing, and plotting to include the preparation time into main data as a separate field
+- [ ] For conferences, make the actual conference dates to be on a separate (but linked) ring.
 - [ ] If two events overlap, split the ring for those events and their preparation and milestones (others should not be impacted)
 - [ ] Replace hardcoded data import with dynamic API or database queries  
 - [ ] Implement an AI agent that scrapes up to date information from the internet
